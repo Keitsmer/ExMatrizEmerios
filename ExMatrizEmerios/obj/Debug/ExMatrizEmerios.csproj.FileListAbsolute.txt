@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\bin\Debug\ExMatrizEmerios.exe.config
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\bin\Debug\ExMatrizEmerios.exe
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\bin\Debug\ExMatrizEmerios.pdb
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\obj\Debug\ExMatrizEmerios.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\obj\Debug\ExMatrizEmerios.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\obj\Debug\ExMatrizEmerios.exe
+C:\Users\user\source\repos\ExMatrizEmerios\ExMatrizEmerios\obj\Debug\ExMatrizEmerios.pdb
